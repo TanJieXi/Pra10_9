@@ -27,6 +27,8 @@ public class TwoActivity extends AppCompatActivity {
                 .putGear(Luban.THIRD_GEAR)      //设定压缩档次，默认三挡
                 .setCompressListener(new OnCompressListener() { //设置回调
 
+
+
                     @Override
                     public void onStart() {
                         // TODO 压缩开始前调用，可以在方法内启动 loading UI
