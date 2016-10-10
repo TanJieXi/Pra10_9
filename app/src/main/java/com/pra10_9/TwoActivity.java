@@ -17,7 +17,7 @@ public class TwoActivity extends AppCompatActivity {
     }
 
     public void btnO(View view) {
-
+        //nihao   wo   zhidao   a a a a a
 
     }
 }
